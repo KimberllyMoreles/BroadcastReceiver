@@ -1,0 +1,7 @@
+#Tue Mar 21 21:30:20 BRT 2017
+base.0=/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c93cb1ccb7f467cb8427e50f1c46ca788c6d2595
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7b78abe8064a6f42687f8dbccb03ee69bb0e7f29/classes.dex
+base.1=/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7b78abe8064a6f42687f8dbccb03ee69bb0e7f29
+file.0=/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c93cb1ccb7f467cb8427e50f1c46ca788c6d2595/classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="8607489683768"
+    token="-305912538401222412"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="371" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="184" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="8607489683768"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/aluno/Documentos/ahc/BroadcastReceiver/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
